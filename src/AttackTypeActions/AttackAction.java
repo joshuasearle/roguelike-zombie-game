@@ -5,7 +5,7 @@ import edu.monash.fit2099.engine.GameMap;
 import edu.monash.fit2099.engine.Weapon;
 
 /**
- * Special Action for attacking other Actors.
+ * Special Action for attacking other Actors
  */
 public class AttackAction extends AttackTypeAction {
 
