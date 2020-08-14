@@ -1,3 +1,0 @@
-<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLNote</id><coordinates><x>270</x><y>380</y><w>260</w><h>70</h></coordinates><panel_attributes>Zombie limbs are inherited from WeaponItems,
-so they are used as normal WeaponItems.
-No interaction change</panel_attributes><additional_attributes></additional_attributes></element></diagram>
