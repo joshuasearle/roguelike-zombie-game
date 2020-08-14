@@ -1,0 +1,38 @@
+WBA for assignment2
+Feature set 1 is:
+- Crafting weapon
+- Rising from dead
+- Farmers and food
+
+Feature set 2 is:
+- Zombie attacks
+- Beating up the Zombies
+
+Aaron Dudley is responsible for:
+- Implementing feature set 2
+- Testing feature set 2
+- Reviewing feature set 1
+
+Joshua Searle is responsible for:
+- Implementing feature set 1
+- Testing feature set 1
+- Reviewing feature set 2
+
+NOTE: Implementing features means also 
+updating documentation if a change is made.
+
+NOTE: Term testing is used loosely. We just
+need to make sure the feature works.
+
+Deadlines:
+- Sun 17th 11:59PM
+	- Implement all features
+- Tue 19th 11:59PM
+	- Test all features
+- Thu 21st 11:59
+	- Review all features
+- Fri 22nd
+	- Complete final copy
+
+I, Joshua Searle, accept the terms of this WBA.
+I, Aaron Dudley, accept the terms of this WBA.

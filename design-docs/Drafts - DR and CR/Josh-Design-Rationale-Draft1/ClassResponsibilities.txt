@@ -1,0 +1,30 @@
+IntrinsicZombieWeapon (new class)
+- Inherits from IntrinsicWeapon
+- Additional attributes:
+	- hitChance (double between 0 and 1 (inclusive))
+	- healAmount (positive int)
+- Responsible for:
+	- Storing additional required information regarding an IntrinsicWeapon for a Zombie
+
+Zombie (heavily changed)
+- Additional Attributes:
+	- legCount (int in range [0, 2])
+	- armCount (int in range [0, 2])
+- Additional Responsibilities:
+	- healing itself when it hits  a bite attack
+	- picking up weapons
+	- randomly saying brains
+	- having it's limbs fall of sometimes if hit
+	- return an intrinsic weapon based on it's armCount
+	- dropping weapons if arms fall off
+	- Moving less if it loses leg(s)
+	- dropping it's limbs as WeaponItems
+
+AttackAction (heavily changed)
+- Additional Responsibilities:
+	- Making the chance of an attack hitting be dependent on the Weapon's hitCHnace (if it has a hitChance)
+	- Healing the attacker if they hit an attack with a weapon that has a healAmount
+
+ZombieLimb (new class)
+- Inherits from WeaponItem abstract class
+

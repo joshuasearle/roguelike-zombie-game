@@ -1,0 +1,60 @@
+WBA for assignment1
+Feature set 1 is:
+- Crafting weapon
+- Rising from dead
+- Farmers and food
+
+Feature set 2 is:
+- Zombie attacks
+- Beating up the Zombies
+
+Aaron Dudley is responsible for:
+- Creating UML class diagrams for: Feature set 1
+- Creating UML sequence diagrams for: Feature set 1
+- Creating design rationales for: Feature set 1
+- Reviewing UML class diagrams for: Feature set 2
+- Reviewing UML sequence diagrams for: Feature set 2
+- Reviewing design rationales for: Feature set 2
+
+Joshua Searle is responsible for:
+- Creating UML class diagrams for: Feature set 2
+- Creating UML sequence diagrams for: Feature set 2
+- Creating design rationales for: Feature set 2
+- Reviewing UML class diagrams for: Feature set 1
+- Reviewing UML sequence diagrams for: Feature set 1
+- Reviewing design rationales for: Feature set 1
+
+Deadlines:
+- Mon 4th 11:59PM
+	- Created all draft UML class diagrams
+- Tue 5th 11:59PM
+	- Created all draft UML sequence diagrams
+	- Created all draft design rationales
+- Wed 6th 11:59PM
+	- All reviews
+- Fri 8th 4:00PM
+	- Final copies done
+- Fri 8th 11:55PM
+	- Final reviews
+	- Submission
+	
+	I Aaron Dudley accept the terms of this WBA
+	I Joshua Searle accept the terms of this WBA
+	
+UPDATE
+As the due date has been pushed back to Sunday 5:00PM our deadlines have changed as follows:
+- Tue 4th 11:59PM
+	- Created all draft UML class diagrams
+- Wed 5th 11:59PM
+	- Created all draft UML sequence diagrams
+	- Created all draft design rationales
+- Thu 6th 11:59PM
+	- All reviews
+- Sat 8th 4:00PM
+	- Final copies done
+- Sat 8th After 4:00PM
+	- Complete final UML class diagram together
+
+	I Aaron Dudley accept the terms of this WBA
+	I Joshua Searle accept the terms of this WBA
+
