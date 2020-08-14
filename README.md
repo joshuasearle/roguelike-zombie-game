@@ -2,10 +2,12 @@
 
 This was a university project where we created a text-based, rogue-like zombie game using Java.
 The aim of this specific unit was to learn the principles of object orientated design / programming.
-For this project, we were provided with a basic game engine, and we had a list of features we need to implement, 
+For this project, we were provided with a basic game engine, and we had a list of features we need to implement,
 ranging from adding sniper rifles and shotguns, to creating a boss called "Mambo Marie" who would randomly disappear and re-appear.
 We were also tasked with implementing our own features for bonus marks, and my group (me and one other person), came up with a Zombie Dog,
 that paralyses enemies with its bark, and can only move in chess knight moves.
+
+![Image preview of the game](images/rlzg.png)
 
 ### Challenges
 
