@@ -1,0 +1,42 @@
+WBA For Assignment 3
+Feature set 1 is:
+- Mambo Marie
+- Adding the town map
+- Adding infection to zombie bites
+
+Feature set 2 is:
+- Adding weapons
+- Ending the game
+- Zombie dog
+
+Aaron Dudley is responsible for:
+- Creating class diagrams for feature set 1
+- Creating interaction diagrams for feature set 1
+- Implementing feature set 1
+- Reviewing feature set 2
+
+Joshua Searle is responsible for:
+- Creating class diagrams for feature set 2
+- Creating interaction diagrams for feature set 2
+- Implementing feature set 2
+- Reviewing feature set 1
+
+Deadlines:
+- Friday 5th 8:00PM
+	- Draft class diagrams
+	- Initial attempt at implementing features
+- Monday 8th 4:00PM
+	- Draft interaction diagrams
+	- Second attempt at implementing features
+- Friday 12th 11:59PM
+	- Finalised UML diagrams
+	- Finalised implementation
+	- Finalised design rationale
+	- Finalised recommendations for engine changes and justification
+
+NOTE: We will keep the design rationale updated throughout
+
+I, Joshua Searle, agree to this WBA
+I, Aaron Dudley, agree to this WBA
+
+
