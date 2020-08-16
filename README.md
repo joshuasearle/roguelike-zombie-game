@@ -7,14 +7,16 @@ ranging from adding sniper rifles and shotguns, to creating a boss called "Mambo
 We were also tasked with implementing our own features for bonus marks, and my group (me and one other person), came up with a Zombie Dog,
 that paralyses enemies with its bark, and can only move in chess knight moves.
 
-![Image preview of the game](images/rlzg.png)
-
 ### Challenges
 
 Some of the challenges we faced were that we weren't allowed to modify the game engine, so we had to figure out ways to add functionality
 to the game without altering the game engine, all while maintaining good object orientated design principles such as SOLID and reducing code smells.
 Another challenge we faced were merge conflicts on git (we had to host the remote repo on gitlab for marking which is why there is no git log), so my partner
 and I had to figure out how to merge code back together, which was a bit difficult as we were both relatively new to using git and repo hosting services.
+
+### Image Preview
+
+![Image preview of the game](images/rlzg.png)
 
 ### Features I Implemented
 
