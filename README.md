@@ -1,5 +1,6 @@
 # Roguelike Zombie Game
 
+Don't be fooled by the simplistic UI, as this game is jammed packed with features from sniper rifles, to vaccinating zombie infections.
 This was a university project where we created a text-based, rogue-like zombie game using Java.
 The aim of this specific unit was to learn the principles of object orientated design / programming.
 For this project, we were provided with a basic game engine, and we had a list of features we need to implement,
